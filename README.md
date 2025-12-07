@@ -30,11 +30,11 @@ This will compile all source files and generate the network executable as define
 
 Notes
 -----
-- The main.cpp file used for testing is intentionally not included, following assignment requirements.
+- The main.cpp file used for testing is intentionally not included, following assignment requirements.  
 - This project was developed as part of an academic exercise focusing on memory management, modularity, and clean C++ software design.
 
 Author
-
+------
 Laura Bensimon  
 Computer Science and Data Science student  
 Hebrew University of Jerusalem
